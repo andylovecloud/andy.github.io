@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "http://andylovecloud.github.io/HAMK-Tutor",
+  "homepage": "http://andylovecloud.github.io/andy.github.io",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://andylovecloud.github.io/HAMK-Tutor'",
+    "build-gh": "parcel build --public-url 'http://andylovecloud.github.io/andy.github.io'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
